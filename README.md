@@ -45,6 +45,9 @@ streamlit run app.py
 ## Device Configuration
 Adjust the device variable in the **app.py** file based on your hardware configuration (**'cpu'** for CPU-only or **'cuda'** for GPU-accelerated).
 
+## Example
+Sample working example for [User workflow](https://drive.google.com/file/d/1hvfE45xeaotDQ0uKjQjr9sIMNMo25WbF/view?usp=sharing))
+
 ## Contributing
 Contributions are welcome! If you have any ideas for improvements, open an issue or submit a pull request.
 
